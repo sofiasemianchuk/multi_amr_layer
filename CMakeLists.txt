@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(multi_amrs_layer)
+project(multi_amr_layer)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
