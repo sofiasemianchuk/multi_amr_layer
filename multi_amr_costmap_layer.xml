@@ -1,0 +1,5 @@
+<library path="multi_amr_layer">
+  <class name="multi_amr_costmap_plugin/MultiAMRLayer" type="multi_amr_costmap_plugin::MultiAMRLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>Plugin for adding other AMRs to local costmap </description>
+  </class>
+</library>
